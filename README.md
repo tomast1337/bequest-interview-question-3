@@ -1,10 +1,11 @@
 # Tamper Proof Data
 
-At Bequest, we require that important user data is tamper proof. Otherwise, our system can incorrectly distribute assets if our internal server or database is breached. 
+The system you are building requires user data to be tamper proof. The client (frontend application) does not want to trust the backend at all. Assume the whole backend system can be compromised.
 
 **1. How does the client ensure that their data has not been tampered with?**
 <br />
 **2. If the data has been tampered with, how can the client recover the lost data?**
+
 
 
 Edit this repo to answer these two questions using any technologies you'd like, there any many possible solutions. Feel free to add comments.
