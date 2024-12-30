@@ -1,0 +1,13 @@
+{
+    "name": "bequest-interview-question-3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start:server": "pnpm run --filter ./server start",
+        "start:client": "pnpm run --filter ./client start"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
